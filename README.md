@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaklik
-- 👀 I’m interested in php, Laravel and TailwindCss
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in fullstack development.
+- Nuxt3, Vue.js3, Symfony, Laravel
 
 <!---
 Jaklik/Jaklik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
