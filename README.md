@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jaklik
+- 👋 Hi
 - 👀 I’m interested in fullstack development.
 - Nuxt3, Vue.js3, Symfony, Laravel
 
